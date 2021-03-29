@@ -14,7 +14,7 @@
 * Install Inquirer package
 
 ## Usage
-* Generates a README.md file
+! [](usage.gif)
 
 ## Contribution
 * https://www.contributor-covenant.org/
