@@ -58,7 +58,7 @@ function promptUser() {
       }
 
 function generateREADME(answers) {
-  return `# ${answers.project_title}
+  return `# ${answers.title}
     
 #### Table of Contents
 1. [Project Description](#project-description)
@@ -104,7 +104,7 @@ promptUser()
     return writeFileAsync("README.md", readme);
   })
   .then(function() {
-    console.log(" README.md has been created!");
+    console.log("Your README.md has been created!");
   })
   .catch(function(err) {
     console.log(err);
