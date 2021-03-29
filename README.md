@@ -14,7 +14,7 @@
 * Install Inquirer package
 
 ## Usage
-! [](https://imgur.com/a/2Q7isys)
+! [] (https://imgur.com/a/2Q7isys)
 
 ## Contribution
 * https://www.contributor-covenant.org/
