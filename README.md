@@ -1,11 +1,11 @@
 # README Generator
     
-#### Table of Contents
-[Description](#description)
-[Installation](#installation)
-[Usage](#usage)
-[Contribution](#contribution)
-[Questions](#questions)
+## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [Questions](#questions)
 
 ## Description
 * This program prompts the user with a series of questions and produces a README.md file after the questions are answered.
